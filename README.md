@@ -1,2 +1,1 @@
-![Test :] (graphql.png)
-
+![Test :](./assets/graphql.png)
