@@ -1,2 +1,2 @@
-![Test :] (C:\Users\pc\Downloads\graphql.png)
+![Test :] (graphql.png)
 
